@@ -1,0 +1,14 @@
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/bin/Debug/net9.0/PrimeiroProjeto
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/bin/Debug/net9.0/PrimeiroProjeto.deps.json
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/bin/Debug/net9.0/PrimeiroProjeto.runtimeconfig.json
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/bin/Debug/net9.0/PrimeiroProjeto.dll
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/bin/Debug/net9.0/PrimeiroProjeto.pdb
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.AssemblyInfo.cs
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.dll
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/refint/PrimeiroProjeto.dll
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.pdb
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/PrimeiroProjeto.genruntimeconfig.cache
+/Users/gustavo/Desktop/Infnet/Fundamentos C#/PrimeiroProjeto/obj/Debug/net9.0/ref/PrimeiroProjeto.dll
